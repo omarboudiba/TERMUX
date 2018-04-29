@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bash
 echo $red 
  echo ""----------------------------------------------------------------------------- ""
-echo " This Script is written by Techzindia Yt Channel. enjoy"
+echo " SUBSCRIBE    TERMUX ARABIC"
 echo "---------------------------------------------------------------------------------"
 
 echo
